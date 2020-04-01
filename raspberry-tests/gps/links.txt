@@ -1,0 +1,6 @@
+https://developer.here.com/documentation/geovisualization/topics/rest-api.html
+
+http://ozzmaker.com/navigating-navit-raspberry-pi/
+
+http://ozzmaker.com/berrygps-setup-guide-raspberry-pi/
+

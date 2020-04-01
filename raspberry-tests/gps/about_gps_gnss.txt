@@ -1,0 +1,4 @@
+http://maps9.navit-project.org/
+http://wiki.dragino.com/index.php?title=Getting_GPS_to_work_on_Raspberry_Pi_3_Model_B
+https://stackoverflow.com/questions/34097984/cant-see-map-on-navit-in-raspberry-pi
+https://wiki.navit-project.org/index.php/Basic_configuration
